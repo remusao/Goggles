@@ -1,0 +1,18 @@
+! name: Forums
+! description: search for forums
+! public: false
+! author: Flourst8
+
+$discard
+/t/$boost=10
+/d/$boost=10
+/f/$boost=10
+/community/viewforum.php$boost=9
+/forum/viewforum.php$boost=9
+/forum/index.php$boost=9
+lemmy.ml$boost=9
+tildes.net$boost=9
+linuxquestions.org$boost=9
+myanimelist.net/forum$boost=9
+news.ycombinator.com$boost=9
+reddit.com$boost=9
