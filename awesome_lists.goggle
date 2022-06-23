@@ -1,0 +1,7 @@
+! name: Github Awesome lists
+! description: Searches for awesome lists on github.com
+! public: false
+! author: Flourst8
+
+$discard
+/*/awesome-*^$boost=10,site=github.com
