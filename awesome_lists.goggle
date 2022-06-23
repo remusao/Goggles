@@ -1,6 +1,6 @@
 ! name: Github Awesome lists
 ! description: Searches for awesome lists on github.com
-! public: false
+! public: true
 ! author: Flourst8
 
 $discard
