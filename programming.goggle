@@ -1,0 +1,12 @@
+! name: Programming sites
+! description: For Programming related searches
+! public: false
+! author: Flourst8
+
+$boost=10,$site=developer.mozilla.org
+$boost=10,$site=realpython.com
+$boost=10,$site=docs.python.org
+$boost=10,$site=flask.palletsprojects.com
+$boost=10,$site=djangoproject.com
+$boost=10,$site=rust-lang.org
+$boost=2,$site=devdocs.io
