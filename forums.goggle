@@ -11,6 +11,7 @@ $discard
 /forum/viewforum.php$boost=9
 /forum/index.php$boost=9
 /forum/$boost=9
+/forums/$boost=9
 lemmy.ml$boost=9
 tildes.net$boost=9
 linuxquestions.org$boost=9
