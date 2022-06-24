@@ -9,4 +9,12 @@ $boost=10,$site=docs.python.org
 $boost=10,$site=flask.palletsprojects.com
 $boost=10,$site=djangoproject.com
 $boost=10,$site=rust-lang.org
-$boost=2,$site=devdocs.io
+digitalocean.com/community/tutorials/$boost=10
+$boost=10,$site=wikibooks.org
+$boost=10,$site=freecodecamp.org
+$boost=10,$site=css-tricks.com
+$boost=5,$site=devdocs.io
+$downrank=5,$site=w3schools.com
+$downrank=5,$site=tutorialspoint.com
+$downrank=5,$site=javatpoint.com
+$downrank=6,$site=codecademy.com
