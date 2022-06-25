@@ -9,7 +9,7 @@ $boost=10,$site=docs.python.org
 $boost=10,$site=flask.palletsprojects.com
 $boost=10,$site=djangoproject.com
 $boost=10,$site=rust-lang.org
-digitalocean.com/community/tutorials/$boost=10
+/community/tutorials/$boost=10,site=digitalocean.com
 $boost=10,$site=wikibooks.org
 $boost=10,$site=freecodecamp.org
 $boost=10,$site=css-tricks.com
