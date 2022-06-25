@@ -3,18 +3,4 @@
 ! public: false
 ! author: Flourst8
 
-$boost=10,$site=developer.mozilla.org
-$boost=10,$site=realpython.com
-$boost=10,$site=docs.python.org
-$boost=10,$site=flask.palletsprojects.com
-$boost=10,$site=djangoproject.com
-$boost=10,$site=rust-lang.org
-/community/tutorials/$boost=10,site=digitalocean.com
-$boost=10,$site=wikibooks.org
-$boost=10,$site=freecodecamp.org
-$boost=10,$site=css-tricks.com
-$boost=5,$site=devdocs.io
-$discard,$site=w3schools.com
-$downrank=5,$site=tutorialspoint.com
-$downrank=5,$site=javatpoint.com
-$downrank=6,$site=codecademy.com
+$discard,site=w3schools.com
