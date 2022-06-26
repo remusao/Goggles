@@ -4,8 +4,8 @@
 ! author: Flourst8
 
 
-$discard,$site=quora.com
-$discard,$site=w3schools.com
-$downrank,$site=geeksforgeeks.org
-$boost=5,$site=docs.python.org
-$boost=5,$site=codecademy.com
+$discard,site=quora.com
+$discard,site=w3schools.com
+$downrank,site=geeksforgeeks.org
+$boost=5,site=docs.python.org
+$boost=5,site=codecademy.com
